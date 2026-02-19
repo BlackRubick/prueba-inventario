@@ -81,7 +81,7 @@ const LoginPage = () => {
 						Inventario & Ventas
 					</Heading>
 					<Text fontSize="14px" color="text.secondary" textAlign="center" mt={1}>
-						Acceso Demo Profesional
+						Acceso Demo 
 					</Text>
 				</Box>
 				<form onSubmit={handleSubmit}>
